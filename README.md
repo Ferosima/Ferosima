@@ -4,7 +4,7 @@ Hi 👋 My name is Гусаченко Сергій
 Web and Mobile Developer
 ------------------------
 
-I have been a React and React Native developer for 2 years. I like to learn new things in mobile and web development
+I have been a React and React Native developer for 2.5+ years. I like to learn new things in mobile and web development
 
 * 🌍  I'm based in Kherson, Ukraine
 * ✉️  You can contact me at [gusachenko02@gmail.com](mailto:gusachenko02@gmail.com)
