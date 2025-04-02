@@ -4,10 +4,9 @@ Hi 👋 My name is Гусаченко Сергій
 Web and Mobile Developer
 ------------------------
 
-I have been a React and React Native developer for 3+ years. I like to learn new things in mobile and web development
+I have been a React and React Native developer for 4+ years. I like to learn new things in mobile and web development
 
-* 🌍  I'm based in Kherson, Ukraine
-* ✉️  You can contact me at [gusachenko02@gmail.com](mailto:gusachenko02@gmail.com)
+* 🌍  I'm from in Kherson, Ukraine
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -34,7 +33,3 @@ I have been a React and React Native developer for 3+ years. I like to learn new
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ferosima" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fero_sima" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/serhii-husachenko-334bb3142/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/shusachenko"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
